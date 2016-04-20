@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talent_Manager", "Talent Manager\Talent_Manager.csproj", "{9240D222-A8A3-47AE-862B-25DCF1EC988E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talent_Manager.Tests", "Talent_Manager.Tests\Talent_Manager.Tests.csproj", "{72029DAC-444D-4F0E-8F40-F222104C6C2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9240D222-A8A3-47AE-862B-25DCF1EC988E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9240D222-A8A3-47AE-862B-25DCF1EC988E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9240D222-A8A3-47AE-862B-25DCF1EC988E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9240D222-A8A3-47AE-862B-25DCF1EC988E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72029DAC-444D-4F0E-8F40-F222104C6C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72029DAC-444D-4F0E-8F40-F222104C6C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72029DAC-444D-4F0E-8F40-F222104C6C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72029DAC-444D-4F0E-8F40-F222104C6C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
