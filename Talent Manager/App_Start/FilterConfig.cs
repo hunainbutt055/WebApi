@@ -9,5 +9,6 @@ namespace Talent_Manager
         {
             filters.Add(new HandleErrorAttribute());
         }
+
     }
 }
